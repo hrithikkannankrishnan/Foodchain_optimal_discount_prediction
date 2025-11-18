@@ -63,10 +63,5 @@ Using this quasi-experiment, we:
 
 ## 4. Repository Structure
 
-```text
-├─ data/                 # Input data (secured or dummy samples)
 ├─ notebooks/            # EDA, DiD, elasticity, bandit experiments
-├─ scripts/              # Reproducible pipelines (cleaning, modeling)
-├─ results/              # Tables, figures, exported summaries
-├─ report/               # Final write-up / slides
 └─ README.md
