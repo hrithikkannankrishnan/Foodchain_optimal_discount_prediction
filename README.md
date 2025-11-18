@@ -1,4 +1,4 @@
-# Exploring Pricing Strategies for PizzaHub 🍕
+# Exploring Pricing Strategies for PizzaHub 
 
 Applied pricing analytics project for PizzaHub’s 4 regions (Jan–Apr 2023). Combines EDA, causal DiD, elasticity estimation and multi-armed bandits on daily order data to compare uniform vs region-specific discounts and recommend profit-maximising pricing.
 
